@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=length\ width\ name\ damage\ weaponQuality
+comment0.target=broadSword(int,\ int,\ java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=broadSword()
+numComments=2

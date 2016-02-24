@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=WeaponQuality\ Name\ Damage
+comment0.target=weapon(int,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=boolean\ parry()
+comment2.params=
+comment2.target=int\ attack()
+numComments=3

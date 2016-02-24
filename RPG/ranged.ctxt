@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=effectiveRange\ damage\ name\ ammo\ rateOfFire\ weaponQuality
+comment0.target=ranged(int,\ int,\ java.lang.String,\ int,\ double,\ int)
+comment1.params=
+comment1.target=ranged()
+numComments=2

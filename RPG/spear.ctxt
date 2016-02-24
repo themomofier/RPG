@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=length\ width\ bladeLength\ name\ damage\ weaponQuality\ range
+comment0.target=spear(int,\ int,\ int,\ java.lang.String,\ int,\ int,\ int)
+comment1.params=
+comment1.target=spear()
+numComments=2

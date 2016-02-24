@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=length\ width\ name\ damage\ weaponQuality\ bladeLength\ range
+comment0.target=throwableWeapon(int,\ int,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=throwableWeapon()
+comment2.params=
+comment2.target=boolean\ throwWeapon()
+numComments=3
